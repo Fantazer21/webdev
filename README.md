@@ -2,7 +2,7 @@
 
 ![](https://github.com/Fantazer21/webdev/blob/master/assets/webdev.png)
 
-[Result](...)
+[Result](https://fantazer21.github.io/webdev/application/)
 
 Create a webpage according pattern:
 
