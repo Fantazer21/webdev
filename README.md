@@ -6,7 +6,7 @@
 
 Create a webpage according pattern:
 
-**[Figma:](https://www.figma.com/file/2Zev0HVCKABbZoAsuWTdcD/webdev_newVersion-18.09?node-id=1%3A5)**  
+**[Figma](https://www.figma.com/file/2Zev0HVCKABbZoAsuWTdcD/webdev_newVersion-18.09?node-id=1%3A5)**  
 
 Key moment: "Create a web page with full accordance template".For "check" use PerfectPixel
 
