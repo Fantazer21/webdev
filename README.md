@@ -1,4 +1,4 @@
-## Task 1. WebDev для [RS School](https://rs.school/)
+## Task 1. WebDev for [RS School](https://rs.school/)
 
 ![](https://github.com/Fantazer21/webdev/blob/master/assets/webdev.png)
 
